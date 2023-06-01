@@ -1,0 +1,29 @@
+,0
+Start,2020-08-03 09:15:00
+End,2021-08-03 15:25:00
+Duration,365 days 06:10:00
+Exposure Time [%],0.8166097352690008
+Equity Final [$],9825.981916158173
+Equity Peak [$],10117.466343863014
+Return [%],-1.740180838418273
+Buy & Hold Return [%],2.4981613140475516
+Return (Ann.) [%],-1.7470529132045054
+Volatility (Ann.) [%],1.9194528930902857
+Sharpe Ratio,0.0
+Sortino Ratio,0.0
+Calmar Ratio,0.0
+Max. Drawdown [%],-4.042293887217574
+Avg. Drawdown [%],-1.296150211411942
+Max. Drawdown Duration,294 days 06:00:00
+Avg. Drawdown Duration,73 days 14:24:00
+# Trades,10
+Win Rate [%],40.0
+Best Trade [%],0.8216422645506816
+Worst Trade [%],-0.9501859273488122
+Avg. Trade [%],-0.2091682510130033
+Max. Trade Duration,0 days 03:55:00
+Avg. Trade Duration,0 days 01:12:00
+Profit Factor,0.537485361433119
+Expectancy [%],-0.20687751243281147
+SQN,-0.890754790960197
+_strategy,EmaRsiAtrStrategy

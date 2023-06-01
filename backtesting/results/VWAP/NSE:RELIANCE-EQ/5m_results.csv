@@ -1,0 +1,29 @@
+,0
+Start,2021-07-01 09:15:00
+End,2021-08-03 15:25:00
+Duration,33 days 06:10:00
+Exposure Time [%],86.14492753623189
+Equity Final [$],10074.623214844796
+Equity Peak [$],10134.697948331095
+Return [%],0.7462321484479616
+Buy & Hold Return [%],-1.114001892147596
+Return (Ann.) [%],4.528209702184638
+Volatility (Ann.) [%],11.798918143341474
+Sharpe Ratio,0.3837817711058584
+Sortino Ratio,0.5767387143150301
+Calmar Ratio,0.9360813122481626
+Max. Drawdown [%],-4.837410642574791
+Avg. Drawdown [%],-0.6694949303929776
+Max. Drawdown Duration,27 days 04:30:00
+Avg. Drawdown Duration,2 days 18:23:00
+# Trades,202
+Win Rate [%],41.584158415841586
+Best Trade [%],0.8457266155101562
+Worst Trade [%],-0.7725898555592803
+Avg. Trade [%],0.004384161855019997
+Max. Trade Duration,2 days 23:50:00
+Avg. Trade Duration,0 days 02:13:00
+Profit Factor,1.038892400850136
+Expectancy [%],0.00476602656809008
+SQN,0.22661254769185854
+_strategy,"VWAP(atr_length=7,sma_length=5)"

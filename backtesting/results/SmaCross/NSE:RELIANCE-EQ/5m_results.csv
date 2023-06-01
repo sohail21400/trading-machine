@@ -1,0 +1,29 @@
+,0
+Start,2021-07-01 09:15:00
+End,2021-08-03 15:25:00
+Duration,33 days 06:10:00
+Exposure Time [%],64.46376811594203
+Equity Final [$],10660.861894118176
+Equity Peak [$],10853.360347388742
+Return [%],6.608618941181758
+Buy & Hold Return [%],-1.114001892147596
+Return (Ann.) [%],98.61534161750936
+Volatility (Ann.) [%],17.694240191054465
+Sharpe Ratio,5.573301851489815
+Sortino Ratio,26.453932595947705
+Calmar Ratio,55.600853937839425
+Max. Drawdown [%],-1.7736299828732704
+Avg. Drawdown [%],-0.26938204564520135
+Max. Drawdown Duration,3 days 21:30:00
+Avg. Drawdown Duration,0 days 11:55:00
+# Trades,87
+Win Rate [%],47.12643678160919
+Best Trade [%],0.9808018485288006
+Worst Trade [%],-0.6188639874978197
+Avg. Trade [%],0.08665289545628507
+Max. Trade Duration,2 days 21:55:00
+Avg. Trade Duration,0 days 03:23:00
+Profit Factor,1.6995152211326097
+Expectancy [%],0.087337789829458
+SQN,2.1025238424270243
+_strategy,"SmaCross(sma_length1=5,sma_length2=10,atr_length=7)"
